@@ -123,110 +123,107 @@ Heartbeat/
 
 ## Reference:
 [1] N. Holter, “New Method for Heart Studies”, Annals of Noninvasive Electro
-cardiology, vol. 3, no. 4, pp. 381-387, 1998.
+cardiology, vol. 3, no. 4, pp. 381-387, 1998.  
 [2] S. Akselrod, D. Gordon, F. Ubel, D. Shannon, A. Berger and R. Cohen,
 “Power spectrum analysis of heart rate fluctuation: a quantitative probe of beat-to
-beat cardiovascular control”, Science, vol. 213, no. 4504, pp. 220-222, 1981.
+beat cardiovascular control”, Science, vol. 213, no. 4504, pp. 220-222, 1981.  
 [3] V. Pichot, F. Roche, J. Gaspoz, F. Enjolras, A. Antoniadis, P. Minini, F. Costes
 and T. Busso, “Relation between heart rate variability and training load in middle
 distance runners”, Medicine & Science in Sports & Exercise, vol. 32, no. 10, pp.
-1729-1736, 2000.
+1729-1736, 2000.  
 [4] T. Salomi; S. Amar; S. Anurag; B. Vishal, “Sensing heartbeat and body temperature
 digitally using Arduino,” in IEEE Intern. Conf. on Signal Processing, Communication,
-Power and Embedded System (SCOPES), Paralakhemundi, India, Jun. 2017.
+Power and Embedded System (SCOPES), Paralakhemundi, India, Jun. 2017.  
 [5] Z. Zhilin, “Photoplethysmography-Based Heart Rate Monitoring in Physical
 Activities via Joint Sparse Spectrum Reconstruction,” IEEE Trans. Biomedical
-Engineering, vol. 62, no. 8, pp. 1902-1910, Feb. 2015.
+Engineering, vol. 62, no. 8, pp. 1902-1910, Feb. 2015.  
 [6] F. Mohamed, B. Mounir, and B. Mouldi, “Microcontroller Based Heart Rate
 Monitor,” The International Arab Journal of Information Technology (IAJIT), Vol. 5, No.
-4, Oct. 2008.
+4, Oct. 2008.  
 [7] T. Arulananth and B. Shilpa, "Fingertip based heartbeat monitoring system
 using embedded systems", in Intern. Conf. on Electronics, Communication and
-Aerospace Technology, 2017.
+Aerospace Technology, 2017.  
 [8] Y. Kurzweil-Segev et al., “Remote monitoring of phasic heart rate changes
 from the palm,” IEEE Trans. THz Sci. Technol., vol. 4, no. 5, pp. 618–623, Sep.
-2014.
+2014.  
 [9] K. Junhyung et al., “Capacitive Heart-Rate Sensing on Touch Screen Panel with
-Laterally Interspaced Electrodes,” in Sensors, Jul. 2020.
+Laterally Interspaced Electrodes,” in Sensors, Jul. 2020.  
 [10] T. S. Arulananth, B. Shilpa, A. Shadi, “Fingertip based heartbeat monitoring
 system using embedded systems,” in Intern. Conf. on Electronics, Communication and
-Aerospace Technology (ICECA), Coimbatore, India, Dec. 2017.
+Aerospace Technology (ICECA), Coimbatore, India, Dec. 2017.  
 [11] I.V. Mikhelson, S. Bakhtiari, T.W. Elmer, and A.V. Sahakian, “ Remote sensing of
 heart rate and patterns of respiration on a stationary subject using 94-GHz
-46
 millimeter-wave interferometry ,” IEEE Trans. Biomedical Engineering, vol. 58, no. 6,
-pp. 1671-1677, 2011.
+pp. 1671-1677, 2011.  
 [12] A. Sani, “An IoT-Based Smart Framework for a Human Heartbeat Rate
 Monitoring and Control System,” in IEEE Intern. Conf. on Sensors and Applications,
-Nov. 2019.
+Nov. 2019.  
 [13] R. Aritra, R. Hena, “Secured Pulse Rate Monitoring System using IoT and Cud,”
 in IEEE Intern. Conf. on Emerging Frontiers in Electrical and Electronic Technologies
-(ICEFEET), Paralakhemundi, Patna, India, Sep. 2020.
+(ICEFEET), Paralakhemundi, Patna, India, Sep. 2020.  
 [14] Akanksha, Eisha, “Framework for propagating stress control message using
 heartbeat based IoT remote monitoring analytics,” International journal of
 electrical and computer engineering (IJECE), Vol. 10, No.5, pp.4615-4622, Oct. 2020.
 [15] Z. Zhilin, “Photoplethysmography-Based Heart Rate Monitoring in Physical
 Activities via Joint Sparse Spectrum Reconstruction,” IEEE Trans. Biomedical
-Engineering, vol. 62, no. 8, pp. 1902-1910, Feb. 2015.
+Engineering, vol. 62, no. 8, pp. 1902-1910, Feb. 2015.  
 [16] A. Kahtan, T. Saed, I. Salah, A. Shadi, “Smart real-time healthcare monitoring and
 tracking system using GSM/GPS technologies,” in 3rd MEC Intern. Conf. on Big Data
-and Smart City (ICBDSC), Muscat, Oman, Apr. 2016.
+and Smart City (ICBDSC), Muscat, Oman, Apr. 2016.  
 [17] Y. Geng et al., “A Health-IoT Platform Based on the Integration of Intelligent
 Packaging, Unobtrusive Bio-Sensor, and Intelligent Medicine Box,” IEEE Trans.
-Industrial Informatics, vol. 10, no. 4, pp. 2180-2191, 2014.
+Industrial Informatics, vol. 10, no. 4, pp. 2180-2191, 2014.  
 [18] S. Jayanth, M. Poorvi, R Shreyas, B. Padmaja, M. Sunil, “Wearable Device to
 Measure Heartbeat using IoT,” in Intern. Conf. on Inventive Systems and Control
-(ICISC), Coimbatore, India, Oct. 2017.
+(ICISC), Coimbatore, India, Oct. 2017.  
 [19] G. Pankaj, “Selecting the right IoT cloud platform,” in Intern. Conf. on Internet
-of Things and Applications (IOTA), Pune, India, Jan. 2016.
+of Things and Applications (IOTA), Pune, India, Jan. 2016.  
 [20] Z. Haikun, “Design anImplemention of Poultry Farming Information
 Management System Based on Cloud Database,” Animals, Basel, Vol. 11, Oct. 2021.
 [21] T. Asoke, H. Roland, “AIoT: AI meets IoT and Web in Smart Healthcare,” in
 ACM Web Science Conference, Applications and Services, New York, NY, United
-States Jun. 2021.
-47
+States Jun. 2021.  
 [22] L. Yu-Jin et al., “An AIoT Wearable ECG Patch with Decision Tree for Arrhythmia
 Analysis,” in IEEE Intern. Conf. on Biomedical Circuits and Systems Conference
-(BioCAS), Nara, Japan, Oct. 2019.
+(BioCAS), Nara, Japan, Oct. 2019.  
 [23] P. Shekhar, “Machine Learning and IoT for Prediction and Detection of Stress,”
 in Intern. Conf. on Computational Science and Its Applications (ICCSA), Trieste, Italy,
-Jul. 2017.
+Jul. 2017.  
 [24] Z. Zixuan, H. Tianyiyi, Z. Minglu, S. Qiongfeng, L. Chengkuo, “Smart Triboelectric
 Socks for Enabling Artificial Intelligence of Things (AIoT) Based Smart Home and
 Healthcare,” in IEEE Intern. Conf. on Micro Electro Mechanical Systems (MEMS),
-Vancouver, BC, Canada, Jan. 2020.
+Vancouver, BC, Canada, Jan. 2020.  
 [25] N. Mzomuhle, “Chllenges in mobile bio-sensor based mHealth development,”
 in Intern. Conf. on e-Health Networking, Applications and Services, Columbia, MO,
-USA, Sep. 2011.
+USA, Sep. 2011.  
 [26] T. Salomi; S. Amar; S. Anurag; B. Vishal, “Sensing heartbeat and body
 temperature digitally using Arduino,” in IEEE Intern. Conf. on Signal Processing,
 Communication, Power and Embedded System (SCOPES), Paralakhemundi, India, Jun.
-2017.
+2017.  
 [27] “Getting Started with Arduino UNO” [online] arduino.cc/en/Guide/ArduinoUno
 Available at: https://www.arduino.cc/en/Guide/ArduinoUno [Accessed 3 May. 2021].
 [28] S. S. Thomas, A. Saraswat, A. Shashwat, and V. Bharti, “Sensing heart beat and
 body temperature digitally using Arduino,” in 2016 International Conference on
 Signal Processing, Communication, Power and Embedded System, pp. 1721–1724,
-2016,.
+2016,.  
 [29] H. Fukushima, H. Kawanaka, M.S.Bhuiyan, K. Oguri, “Estimating heart rate using
 wrist-type photoplethysmography and acceleration sensor while running”, Annual
-International Conference of the IEEE, pp. 2901–2904, 2012.
+International Conference of the IEEE, pp. 2901–2904, 2012.  
 [30] “Interfacing MAX30100 Pulse Oximeter Sensor with Arduino” [online]
 mongodb.com/cloud/atlas Available at: https:// how2electronics.com/interfacing-
-max30100-pulse-oximeter-sensor-arduino/ [Accessed 11 May. 2021].
+max30100-pulse-oximeter-sensor-arduino/ [Accessed 11 May. 2021].  
 [31] J. Wan, Y. Zou, Y. Li, and J. Wang, “Reflective type blood oxygen saturation
 detection system based on MAX30100,” 2017 Int. Conf. Secur. Pattern Anal. Cybern.
-SPAC 2017, vol. 2018-Janua, no. 4, pp. 615–619, 2018.
-48
+SPAC 2017, vol. 2018-Janua, no. 4, pp. 615–619, 2018.  
 [32] Z. Zhang, “Photoplethysmography-Based Heart Rate Monitoring in Physical
 Activities via Joint Sparse Spectrum Reconstruction,” IEEE Trans Biomed Eng,
-vol.62, no. 8, pp. 1902-1910, 2015 .
+vol.62, no. 8, pp. 1902-1910, 2015 .  
 [33] “Global multi-cloud database” [online] mongodb.com/cloud/atlas Available at:
-https://www.mongodb.com/cloud/atlas [Accessed 15 May. 2021].
+https://www.mongodb.com/cloud/atlas [Accessed 15 May. 2021].  
 [34] “The database for modern applications” [online] mongodb.com Available at:
-https://www.mongodb.com/ [Accessed 20 May. 2021].
+https://www.mongodb.com/ [Accessed 20 May. 2021].  
 [35] “The database for modern applications” [online] mongodb.com Available
-Available at: https://www.mongodb.com/ [Accessed 15 May. 2021].
+Available at: https://www.mongodb.com/ [Accessed 15 May. 2021].  
 [36] “MongoDB Compass-The easiest way to explore and manipulate your MongoDB
 data” [online] mongodb.com/products/compass Available at:
-https://www.mongodb.com/products/compass [Accessed 16 May. 2021].
+https://www.mongodb.com/products/compass [Accessed 16 May. 2021].  
