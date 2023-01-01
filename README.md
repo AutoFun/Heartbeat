@@ -28,7 +28,10 @@ data visualization features for this project. The data was output as different c
 diagram to help user to analyse the heartbeat results.
 
 ## Tech Stack:
-
+Android app Dev & Ops with Java  
+MongoDB Cloud  
+Arduino Programming   
+Data visualization with Aparche Echart  
 
 ## Features：
 Self-developed Android Application  
@@ -45,7 +48,36 @@ SD card
 
 ## Prototype:
 
+### Mobile application workflow diagram
+Start the system mobile application by clicking the icon. In the login page, it requires
+the username and password if the account is existed, otherwise the user should register a
+new account. Enter the system, there is Home Page which presents the general
+information of the system. In many IoT heartbeat monitoring projects, it is important to
+remind the user about measurements or any updates about the application. This is
+achieved by the Notification layout which is designed using a scroll down view. The
+software can get the information of hardware in the Hardware Page, the connection
+state, and database record. Hardware state information includes the sensor state,
+microcontroller state, hardware battery. The Record Page presents the information about
+the detailed record which is obtained from the system database. It can provide the
+specific information with different requirements. The Account Page includes
+information about the settings, the account information, and the user location.
+![image](https://user-images.githubusercontent.com/42330996/210161437-3de5be7c-e0b8-44ba-a54c-2ab6f46a1a1e.png)
+
 
 ## Demo:
+
+### MongoDB Cloud Cluster configuration
+![image](https://user-images.githubusercontent.com/42330996/210161380-eab02565-287c-4ab0-8cbd-3b3190f17b3d.png)
+
+### Demo database for data querying purpose
+![image](https://user-images.githubusercontent.com/42330996/210161396-72df85fc-8f1a-4683-82da-c41cc352212e.png)
+
+### Application Prototype using Adobe XD
+![image](https://user-images.githubusercontent.com/42330996/210161414-785319ba-d170-49b9-acd6-75f755da691f.png)
+---
+![image](https://user-images.githubusercontent.com/42330996/210161418-d19e80f4-c413-4790-bd1a-514952731bb4.png)
+---
+![image](https://user-images.githubusercontent.com/42330996/210161428-af1f834f-48fb-49f6-a3d9-b94b555151c8.png)
+
 
 ## Reference:
