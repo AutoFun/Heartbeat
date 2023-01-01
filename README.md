@@ -63,6 +63,45 @@ specific information with different requirements. The Account Page includes
 information about the settings, the account information, and the user location.
 ![image](https://user-images.githubusercontent.com/42330996/210161437-3de5be7c-e0b8-44ba-a54c-2ab6f46a1a1e.png)
 
+### System mobile application folder tree
+Heartbeat/	
+├─ app/	
+│  ├─ manifests/	
+│  ├─ java/	
+│  │  ├─ com.example.heartbeat/	
+│  │  │  ├─ fragment/	The folder of frontend page connection
+│  │  │  │  ├─ fragmentHome.java	Java class for the Home fragment
+│  │  │  │  ├─ fragmentHardware.java	Java class for the Hardware fragment
+│  │  │  │  ├─ fragmentData.java	Java class for the Data fragment
+│  │  │  │  ├─ fragmentRecord.java	Java class for the Record fragment
+│  │  │  ├─ sensor/	
+│  │  │  │  ├─ sensorData.java	
+│  │  │  ├─ setting/	
+│  │  │  │  ├─ setting.java	
+│  │  │  │  ├─ settingsAdapter.java	
+│  │  │  ├─ showData/	
+│  │  │  │  ├─ getHardwareState.java	Get data from database and show them in the hardware page
+│  │  │  │  ├─ getHeartbeatData.java	
+│  │  │  │  ├─ getRecord.java	
+│  │  │  ├─ user/	
+│  │  │  │  ├─ RegisterActivity.java	The register logic
+│  │  │  │  ├─ user.java	
+│  │  │  │  ├─ LoginActivity.java	The login logic
+│  │  │  ├─ home.java	Home page backend code 
+│  │  │  ├─ MyFragment.java	Fragment adaptor
+│  ├─ res/	
+│  │  ├─ drawable/	
+│  │  │  ├─ icon.xml	
+│  │  ├─ layout/	
+│  │  │  ├─ activity.xml	The frontend layout
+│  │  ├─ mipmap/	
+│  │  │  ├─ icon.png	Icon image
+│  │  ├─ values/	
+│  │  │  ├─ styles.xml	The colour, font, 
+│  ├─ assets/	
+│  │  ├─ echart.js	Contains the project echart JavaScript
+├─ Gradle Scripts/	 
+│  ├─ build.gradle	
 
 ## Demo:
 
