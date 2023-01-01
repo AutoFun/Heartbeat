@@ -7,6 +7,8 @@ Wi-Fi network. A cloud database was designed and developed to store the incoming
 data for data processing. The system is equipped with a mobile application with a
 friendly design which allows the user to interact with the system in a smart way.
 
+![image](https://user-images.githubusercontent.com/42330996/210161869-e226dd61-0aa3-4943-a804-21e05a4167a5.png)
+
 ---
 ![](https://img.shields.io/badge/Liscense-MIT-green)
 ![](https://img.shields.io/badge/Author-Harrison_Zhao-blue)  
@@ -48,6 +50,7 @@ Arduino-Yun WIFI-Shield
 Arduino UNO  
 MAX30100 sensor  
 SD card
+![image](https://user-images.githubusercontent.com/42330996/210161882-85c3f9a6-83ff-48b7-aa7b-25053f567e76.png)
 
 ## Prototype:
 
@@ -208,13 +211,17 @@ package com.example.heartbeat;
 ![image](https://user-images.githubusercontent.com/42330996/210161396-72df85fc-8f1a-4683-82da-c41cc352212e.png)
 
 ### Application Prototype using Adobe XD
-![image](https://user-images.githubusercontent.com/42330996/210161414-785319ba-d170-49b9-acd6-75f755da691f.png)
 ---
-![image](https://user-images.githubusercontent.com/42330996/210161418-d19e80f4-c413-4790-bd1a-514952731bb4.png)
+![image](https://user-images.githubusercontent.com/42330996/210161901-ff342451-f458-4765-a3bc-34500790646d.png)
+---
+![image](https://user-images.githubusercontent.com/42330996/210161902-d67c2e94-3fbb-42f7-af03-a6b139077194.png)
+
 ---
 ### data visualization demo
 ![image](https://user-images.githubusercontent.com/42330996/210161428-af1f834f-48fb-49f6-a3d9-b94b555151c8.png)
 ![image](https://user-images.githubusercontent.com/42330996/210161473-cefe6276-ff2f-4288-85c2-1e0366ac87ed.png)
+![image](https://user-images.githubusercontent.com/42330996/210161919-42d50f23-92f8-4f40-834a-e94007107e86.png)
+
 
 
 ## Reference:
