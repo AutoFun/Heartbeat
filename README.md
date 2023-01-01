@@ -9,8 +9,8 @@ friendly design which allows the user to interact with the system in a smart way
 
 ---
 ![](https://img.shields.io/badge/Liscense-MIT-green)
-![](https://img.shields.io/badge/Author-Harrison Zhao-blue)
-![](https://img.shields.io/badge/Honour-Project-Distinction-yellow)
+![](https://img.shields.io/badge/Author-Harrison_Zhao-blue)  
+![](https://img.shields.io/badge/Honour_Project-Distinction-yellow)
 ### Features：
 Self-developed Android Application  
 Real-time display  
