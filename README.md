@@ -8,6 +8,15 @@ data for data processing. The system is equipped with a mobile application with 
 friendly design which allows the user to interact with the system in a smart way.
 
 ---
+![](https://img.shields.io/badge/Liscense-MIT-green)
+![](https://img.shields.io/badge/Author-Harrison Zhao-blue)
+![](https://img.shields.io/badge/Honour-Project-Distinction-yellow)
+### Features：
+Self-developed Android Application  
+Real-time display  
+Data Visualization  
+IoT Cloud database
+AIOT extension
 ## Proposed system achievements
 
 The proposed system takes advantage of the Arduino Wi-Fi shield which make the
@@ -33,12 +42,6 @@ MongoDB Cloud
 Arduino Programming   
 Data visualization with Aparche Echart  
 
-## Features：
-Self-developed Android Application  
-Real-time display  
-Data Visualization  
-IoT Cloud database
-AIOT extension
 
 ## Hardware:
 Arduino-Yun WIFI-Shield  
@@ -107,7 +110,7 @@ Heartbeat/
 
 ### Arduino code
 ![image](https://user-images.githubusercontent.com/42330996/210161720-345a14b4-8fea-456f-925e-f37ea7d7f8ae.png)
-###
+### Mobile application backend API for MongoDB Cloud
 ```java
 package com.example.heartbeat;
 	 
@@ -192,6 +195,9 @@ package com.example.heartbeat;
 	                });
 
 ```
+
+
+
 
 ## Demo:
 
