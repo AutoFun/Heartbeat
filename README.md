@@ -64,6 +64,7 @@ information about the settings, the account information, and the user location.
 ![image](https://user-images.githubusercontent.com/42330996/210161437-3de5be7c-e0b8-44ba-a54c-2ab6f46a1a1e.png)
 
 ### System mobile application folder tree
+```
 Heartbeat/	  
 ├─ app/	  
 │  ├─ manifests/	  
@@ -102,7 +103,7 @@ Heartbeat/
 │  │  ├─ echart.js	Contains the project echart JavaScript  
 ├─ Gradle Scripts/	   
 │  ├─ build.gradle	  
-
+```
 ## Demo:
 
 ### MongoDB Cloud Cluster configuration
