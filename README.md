@@ -223,9 +223,16 @@ package com.example.heartbeat;
 ![image](https://user-images.githubusercontent.com/42330996/210161428-af1f834f-48fb-49f6-a3d9-b94b555151c8.png)
 ![image](https://user-images.githubusercontent.com/42330996/210161473-cefe6276-ff2f-4288-85c2-1e0366ac87ed.png)
 ![image](https://user-images.githubusercontent.com/42330996/210161919-42d50f23-92f8-4f40-834a-e94007107e86.png)
+```
+![](https://img.shields.io/badge/Liscense-MIT-green)
+Copyright <2020> <COPYRIGHT HOLDER>
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
 ## Reference:
 [1] N. Holter, “New Method for Heart Studies”, Annals of Noninvasive Electro
 cardiology, vol. 3, no. 4, pp. 381-387, 1998.  
