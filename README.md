@@ -19,9 +19,10 @@ IoT Cloud database
 AIOT extension
 
 ## Hardware:
-Arduino-Yun WIFI-Shield
-Arduino UNO
+Arduino-Yun WIFI-Shield  
+Arduino UNO  
 MAX30100 sensor  
+SD card
 
 ## Prototype:
 
