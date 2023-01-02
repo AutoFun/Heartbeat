@@ -11,8 +11,8 @@ friendly design which allows the user to interact with the system in a smart way
 
 ---
 ![](https://img.shields.io/badge/Liscense-MIT-green)
-![](https://img.shields.io/badge/Java-72.3-red)
-![](https://img.shields.io/badge/Javascript-27.7-orange)  
+![](https://img.shields.io/badge/Java-v14-red)
+![](https://img.shields.io/badge/Javascript-ES6-orange)  
 ![](https://img.shields.io/badge/Author-AutoFun-blue)
 ![](https://img.shields.io/badge/Honour_Project-Distinction-yellow)
 ### Features：
