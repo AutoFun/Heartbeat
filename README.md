@@ -10,7 +10,6 @@ friendly design which allows the user to interact with the system in a smart way
 ![image](https://user-images.githubusercontent.com/42330996/210161869-e226dd61-0aa3-4943-a804-21e05a4167a5.png)
 
 ---
-![](https://img.shields.io/badge/Liscense-MIT-green)
 ![](https://img.shields.io/badge/Java-v14-red)
 ![](https://img.shields.io/badge/Javascript-ES6-orange)  
 ![](https://img.shields.io/badge/Author-AutoFun-blue)
